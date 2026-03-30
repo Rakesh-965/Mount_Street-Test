@@ -74,9 +74,13 @@ Bad Data Strategy:
 
 **Deliverables**
  1.Data ingestion & transformation notebook
+ 
  2.ERD diagram
+ 
  3.Mart tables (SQL)
+ 
  4.Fabric pipeline
+ 
  5.Power BI dashboard
 
  **Notes**
